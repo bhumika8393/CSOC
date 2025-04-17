@@ -1,1 +1,1 @@
-# CSOC
+# CSOCREADME.md
